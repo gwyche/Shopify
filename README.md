@@ -9,7 +9,7 @@ Images were print screened from the original Shopify.com website and logo PNGs w
 
 
 
-### OTHER ASSIGNMENTS FOR TECH TALENT SELECT 
+#### OTHER ASSIGNMENTS FOR TECH TALENT SELECT 
 [DIRECTORY](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/README.md)
 
 #### PERSONAL CODING STUFF
