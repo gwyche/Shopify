@@ -1,0 +1,377 @@
+body {
+    background-color: white;
+    font: ariel;
+}
+
+.jumbotron{
+    background-color: white;
+    border-radius: 0px;
+}
+
+.area2{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.area6{
+    margin-bottom: 45px;
+    text-align: center;
+    align-content: center;
+}
+
+.add_margin{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.area7{
+    background-color: rgb(16, 16, 74);
+    color: white;
+    height: 550px;
+    position: relative;
+}
+
+footer{
+    background-color: rgb(16, 16, 74);
+    color: white;
+    font-size: xx-small;
+}
+
+.bottom_cols{
+    position: relative;
+    background-color: rgb(16, 16, 74) !important;
+    color: white !important;
+}
+
+.bottom_nav{
+    font-size: x-small;
+    margin-right: 40px;
+}
+
+.bottom_bar{
+    margin-bottom: 45px;
+    position: relative;
+    left:-120px;
+    top: -45px;
+}
+
+a{
+    color: white !important;
+    text-decoration: none !important;
+}
+
+.square_image{
+    height: 350px;
+    width: 400px;
+}
+
+.blue{
+    color: rgb(91, 91, 204);
+}
+
+.super_small{
+    font-size: small;
+    color: rgb(100, 100, 100) !important;
+}
+
+.black_link{
+    color: black !important;
+    text-decoration: none !important;
+    font-size: small;
+}
+
+.card{
+    height: 400px;
+    padding-bottom: 15px;
+    border-width: 0px !important;
+}
+
+.col-lg-4{
+    margin: auto;
+}
+
+.area4{
+    text-align: center;
+    margin: auto;
+}
+
+.card_image{
+    height: 190px;
+    width: 190px;
+    margin: auto;
+}
+
+button{
+    background-color: rgb(91, 91, 204) !important;
+    border-color: rgb(91, 91, 204) !important;
+}
+
+.center_internals{
+    position: relative;
+}
+
+.position_us{
+    position: relative;
+    left: 50px;
+}
+
+.bottom_categories{
+    position: relative;
+    top: -50px;
+    left: -150px;
+}
+
+.super_duper_small{
+    font-size: x-small;
+}
+  
+nav{
+    margin: 0px !important;
+}
+
+.credit{
+    font-size: xx-small;
+}
+
+.dropdown{
+    font-size: x-small;
+}
+
+.dropdown-item{
+    font-size: large;
+    color: black !important;
+}
+
+.very_bottom_nav{
+    font-size: xx-small;
+}
+
+.right_side{
+    position: relative;
+    left: 67vw;
+    bottom: 40px;
+}
+
+li{
+    margin-right: 30px;
+}
+
+.left_side{
+    position: relative;
+    left: 20px;
+}
+
+.area1{
+    background-color: rgb(242, 224, 207);
+    position: relative;
+    height: 802px;
+}
+
+.bold{
+    font-weight: bolder;
+    width: 200px;
+}
+
+.top1{
+    width: 689px;
+    height: 388px;
+    position: relative;
+    left: 46vw;
+    top: -230px;
+}
+
+.top2{
+    width: 338px;
+    height: 154px;
+    position: relative;
+    top: -86px;
+
+}
+
+.top3{
+    width: 421px;
+    height: 236px;
+    position: relative;
+    top: -350px;
+    left: 23vw;
+}
+
+.top4{
+    width: 324px;
+    height: 263px;
+    position: relative;
+    left: 52vw;
+    top: -585px;
+}
+
+.top5{
+    width: 253px;
+    height: 235px;
+    position: relative;
+    left: 74.5vw;
+    top: -850px;
+}
+
+.highest_nav_left{
+    font-size: large !important;
+    color: black !important;
+    position: relative;
+    top: -25px;
+}
+
+.make_black{
+    color: black !important;
+}
+
+.shopify{
+    color: black !important;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.top_announcement{
+    position: relative;
+    
+    display: block;
+    left: 65px;
+    width: 90vw;
+}
+
+.shopify_logo{
+    width: 30px !important;
+    height: 30px !important;
+    position: relative;
+    left: 25px;
+    bottom: 2px;
+}
+
+.highest_nav_right{
+    font-size: large !important;
+    color: black !important;
+    position: relative;
+    left: 50px;
+    margin-bottom: 50px;
+}
+
+.area5{
+    background-color: rgb(245, 245, 252);
+    height: 1100px;
+    position: relative;
+}
+
+.area5_title1{
+    width: 550px;
+}
+
+.area5_title2{
+    width: 400px;
+}
+
+.area5_box{
+    height: 400px;
+    width: 400px;
+}
+
+.photo_box{
+    background-color: white;
+    position: relative;
+}
+
+.blue_box{
+    background-color: rgb(16, 16, 74);
+    position: relative;
+    left: 400px;
+    bottom: 400px;
+}
+
+.pair_boxes{
+    width: 800px;
+    height: 400px;
+    position: relative;
+}
+
+.fashion{
+    width: 400px;
+    height: 400px;
+}
+
+.composite_box{
+    height: 700px;
+    width: 800px;
+    position: relative;
+    left: 22vw;
+}
+
+.globe{
+    height: 300px;
+    width: 300px:
+}
+
+.globe_box{
+    position: relative;
+    left: 23%;
+    bottom: -55px;
+}
+
+.crazy_small{
+    font-size: xx-small;
+    color: rgb(100, 100, 100);
+}
+
+.disclaimer{
+    width: 180px;
+}
+
+.blue_box_text{
+    color: white;
+    width: 330px;
+    height: 200px;
+    margin: auto;
+    position: relative;
+    top: 55px;
+}
+.blue_h4{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.blue_box_button{
+    background-color: rgb(16, 16, 74) !important;
+    color: white !important;
+    border-color: white !important;
+    position: relative;
+    top:70px;
+    left: 17%;
+}
+
+.blue_box_text2{
+    color: white;
+    position: relative;
+    left: 21%;
+    top: 55px;
+}
+
+.ceeceeimage{
+    height:50px;
+    width: 110px;
+    position: relative;
+    left: 15%;
+}
+
+.blue_box_bottom{
+    position: relative;
+    bottom: 50px;
+}
+
+.crazy_tiny{
+    height: 17px;
+    width: 17px;
+}
+
+.earth_tiny{
+    position: relative;
+    top: 7px;
+}
+
+
+
