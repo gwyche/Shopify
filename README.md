@@ -1,8 +1,8 @@
 # SPOTIFY.COM DUPLICATE ASSIGNMENT
-### This live webpage is best designed to be viewed on a desktop
+#### This live webpage is best designed to be viewed on a desktop
 
-#### It was written using HTML, CSS, and Bootstrap
-#### Images were print screened from the original Shopify website, and logo PNG's were obtained from external websites
+This webpage was written with HTML, CSS, and Bootstrap.
+Images were print screened from the original Shopify website, and logo PNG's were obtained from external websites.
 
 View the live version here [here](https://gwyche.github.io/Shopify/)
 
