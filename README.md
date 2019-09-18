@@ -1,4 +1,4 @@
-# [SPOTIFY.COM DUPLICATE ASSIGNMENT](https://gwyche.github.io/Shopify/)
+# [SPOTIFY.COM RECREATION ASSIGNMENT](https://gwyche.github.io/Shopify/)
 #### This [live webpage](https://gwyche.github.io/Shopify/) is best designed to be viewed on a desktop
 
 This webpage was written with HTML, CSS, and Bootstrap.
