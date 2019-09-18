@@ -1,6 +1,11 @@
-# This my first attempt at recreating the Spotify.com homepage
+# SPOTIFY.COM DUPLICATE ASSIGNMENT
+### This live webpage is best designed to be viewed on a desktop
 
-The live version can be viewed [here](https://gwyche.github.io/Shopify/)
+#### It was written using HTML, CSS, and Bootstrap
+#### Images were print screened from the original Shopify website, and logo PNG's were obtained from external websites
+
+View the live version here [here](https://gwyche.github.io/Shopify/)
+
 
 
 # DIRECTORY
