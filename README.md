@@ -1,8 +1,8 @@
 # [SPOTIFY.COM RECREATION ASSIGNMENT](https://gwyche.github.io/Shopify/)
 #### This [live website](https://gwyche.github.io/Shopify/) is designed to be viewed on a desktop
 
-This webpage was written with HTML, CSS, and Bootstrap.
-Images were print screened from the original Shopify.com website, and logo PNGs were derived from external websites.
+It was written with HTML, CSS, and Bootstrap
+Images were print screened from the original Shopify.com website and logo PNGs were derived from external websites
 
 
 
