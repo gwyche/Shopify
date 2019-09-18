@@ -2,7 +2,7 @@
 #### This live webpage is best designed to be viewed on a desktop
 
 This webpage was written with HTML, CSS, and Bootstrap.
-Images were print screened from the original Shopify.com website, and logo PNG's were derived from external websites.
+Images were print screened from the original Shopify.com website, and logo PNGs were derived from external websites.
 
 
 
