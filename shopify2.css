@@ -11,12 +11,15 @@ body {
 .area2{
     text-align: center;
     margin-bottom: 40px;
+
 }
 
 .area6{
     margin-bottom: 45px;
     text-align: center;
     align-content: center;
+    position: relative;
+    top: 1600px;
 }
 
 .add_margin{
@@ -29,6 +32,7 @@ body {
     color: white;
     height: 550px;
     position: relative;
+    top: 1600px;
 }
 
 footer{
@@ -91,8 +95,10 @@ a{
 }
 
 .area4{
+    position: relative;
     text-align: center;
     margin: auto;
+    top: 500px;
 }
 
 .card_image{
@@ -164,7 +170,7 @@ li{
 .area1{
     background-color: rgb(242, 224, 207);
     position: relative;
-    height: 802px;
+    height: 863px;
 }
 
 .bold{
@@ -176,15 +182,15 @@ li{
     width: 689px;
     height: 388px;
     position: relative;
-    left: 46vw;
-    top: -230px;
+
 }
 
 .top2{
     width: 338px;
     height: 154px;
     position: relative;
-    top: -86px;
+    top: 149px;
+    left: -135px;
 
 }
 
@@ -192,24 +198,26 @@ li{
     width: 421px;
     height: 236px;
     position: relative;
-    top: -350px;
-    left: 23vw;
+    left: -68px;
+    top: 40px;
+
 }
 
 .top4{
     width: 324px;
     height: 263px;
     position: relative;
-    left: 52vw;
-    top: -585px;
+    top: 40px;
+    left: 90px;
+
 }
 
 .top5{
     width: 253px;
     height: 235px;
     position: relative;
-    left: 74.5vw;
-    top: -850px;
+    left: 152px;
+    top: 40px;
 }
 
 .highest_nav_left{
@@ -249,14 +257,25 @@ li{
     font-size: large !important;
     color: black !important;
     position: relative;
-    left: 50px;
+    left: 20px;
     margin-bottom: 50px;
+}
+
+.area3{
+    position: relative;
+    top: 100px;
 }
 
 .area5{
     background-color: rgb(245, 245, 252);
     height: 1100px;
     position: relative;
+    top: 1600px;
+}
+
+.area2{
+    position: relative;
+    top: 100px;
 }
 
 .area5_title1{
@@ -371,6 +390,10 @@ li{
 .earth_tiny{
     position: relative;
     top: 7px;
+}
+
+.build_business{
+    right: 80px;
 }
 
 
