@@ -19,7 +19,7 @@ body {
     text-align: center;
     align-content: center;
     position: relative;
-    top: 1600px;
+    top: 2190px;
 }
 
 .add_margin{
@@ -32,7 +32,7 @@ body {
     color: white;
     height: 550px;
     position: relative;
-    top: 1600px;
+    top: 2220px;
 }
 
 footer{
@@ -98,7 +98,7 @@ a{
     position: relative;
     text-align: center;
     margin: auto;
-    top: 500px;
+    top: 170px;
 }
 
 .card_image{
@@ -270,7 +270,7 @@ li{
     background-color: rgb(245, 245, 252);
     height: 1100px;
     position: relative;
-    top: 1600px;
+    top: 2140px;
 }
 
 .area2{
